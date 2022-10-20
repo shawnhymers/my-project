@@ -1,0 +1,7 @@
+export const SUBMIT_FLIGHT = 'SUBMIT_FLIGHT'
+export const SUBMIT_FOOD = 'SUBMIT_FOOD'
+export const SUBMIT_CAR = 'SUBMIT_CAR'
+export const SUBMIT_BUS = 'SUBMIT_BUS'
+export const SUBMIT_TRAIN = 'SUBMIT_TRAIN'
+export const SUBMIT_HOTEL = 'SUBMIT_HOTEL'
+export const SUBMIT_DIET = 'SUBMIT_DIET'
